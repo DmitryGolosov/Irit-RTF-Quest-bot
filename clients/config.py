@@ -1,0 +1,3 @@
+bot_token = '5601088220:AAEm30SMD40oxDRt2rj5rknZ6HwgbGmMNGI'
+vk_token = 'vk1.a.UKZK5aNKj33BB4u5Ws1k1MQ9_rnr7ao_OIcsVwjVE7ViTilzdb6rLEIX6JdCtZE-E_YMFSNsTYg6uBbEx5QgUCYO6sHo8AeOZqEx-YsvAHzNkYjpPoppVPdJA1taVfTwX_VAVJDG8b950-LwgK-U8EhhnnvC-AyZ9Yjheg8SrLz9Ao2EqzPS3kPqppO6cGL8iNVvaKiPt5-GtFc9VeuHGg'
+stop_passwd = 'terminate*this^bot'
